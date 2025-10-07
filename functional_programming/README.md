@@ -1,2 +1,2 @@
-# functional_programming_assignment
+# functional programming assignment
 
